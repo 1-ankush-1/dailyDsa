@@ -20,5 +20,12 @@ This repository is filled with new and challenging questions that will push you 
     - Sandy Planks
 
 - Date - 4Dec2023
+    - Physics-Infused Story:
+    - gridded landscape(unearth unique lines)
+    - develop a application to reduce length
+    - probability of random choosen no
+    - Zero Padding
+    - smaller element to the right which must have largest distance from that element
+    - rooted tree
 
 We hope you find this repository helpful in your journey to mastering DSA. Happy coding!
