@@ -1,0 +1,5 @@
+## UNDERSTANDING
+
+
+## LOGIC
+
