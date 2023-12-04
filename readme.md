@@ -10,4 +10,15 @@ The main goal of this repository is to provide a platform for learning and under
 
 This repository is filled with new and challenging questions that will push you to think outside the box and expand your understanding of DSA.
 
+-  Date - 21Oct2023
+    - _Magical Story: The Enchanted Array_
+    - realm of this quandary(English Alphabet)
+
+- Date - 27Oct2023
+    - sum of maximum from left and right
+    - Geek Coins Box
+    - Sandy Planks
+
+- Date - 4Dec2023
+
 We hope you find this repository helpful in your journey to mastering DSA. Happy coding!
